@@ -803,6 +803,8 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
+  background-color: white;
+  /* padding: 3px; */
 }
 .fa-rotate-left:before,
 .fa-undo:before {
