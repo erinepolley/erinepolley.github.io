@@ -38,7 +38,7 @@ html, body{
 }
 
 body.demos .section {
-    background: url(images/bg.png) repeat top center #f2f3f5;
+    background: url(uploads/alhambra-ceiling.jpg) repeat top center #f2f3f5;
 }
 
 body.demos .section-title img {
@@ -1394,7 +1394,7 @@ xclip
 
 .hoverbutton {
     /* background-color: #333333; */
-    position: absolute;
+    /* position: absolute; */
     color: #ffffff !important;
     top: 70%;
     font-size: 21px;
@@ -1402,11 +1402,11 @@ xclip
     left: 0;
     opacity: 0;
     right: 0;
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 150px;
     line-height: 50px;
     text-align: center;
-    margin: -20px auto;
+    margin: 50px 140px;
 	border-radius: 50%;
 }
 
@@ -2289,10 +2289,13 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/bg.png) no-repeat center center #333333;
+    /* background: url(uploads/alhambra-ceiling.jpg) no-repeat center center #333333; */
+    background-color: #64deca;
 }
 
-
+.contact-name {
+    color: white
+}
 
 #contact .section-title p{
 	color: #ffffff;
@@ -2799,7 +2802,7 @@ select.mobile-device {
 }
 
 .img-logo {
-    max-height: 100px;
+    max-height: 70px;
 }
 
 .btn {
