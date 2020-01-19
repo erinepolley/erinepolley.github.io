@@ -28,7 +28,7 @@ body {
 	--def: #ffffff; 	
 	--inv: #64deca;
     color: #999999;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Raleway', sans-serif;
     line-height: 1.80857;
 }
@@ -533,8 +533,8 @@ xclip
 
 
 #mainNav.navbar-shrink {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    /* padding-bottom: 10px; */
     background-color: #ffffff;
 	border-bottom: 4px solid #64deca;
 }
@@ -579,7 +579,7 @@ xclip
 }
 
 .section.lb {
-    background-color: #f2f3f5;
+    background-color: #E8E8E8;
 }
 
 .section.db {
@@ -774,6 +774,7 @@ xclip
 .isotope-item {
     z-index: 2;
     padding: 0;
+    max-width: 55%;
 }
 
 .isotope-hidden.isotope-item {
