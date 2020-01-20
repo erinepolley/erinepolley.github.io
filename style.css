@@ -192,6 +192,11 @@ ul, li, ol{
     margin-right: 0
 }
 
+#first-pic {
+    border-radius: 50%;
+    margin-top: 80px;
+}
+
 .alignnone {
     margin: 5px 20px 20px 0;
 }
