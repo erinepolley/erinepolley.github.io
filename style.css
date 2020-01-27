@@ -225,6 +225,11 @@ div.aligncenter {
     max-height: 30px;
 }
 
+#github-icon {
+    max-height: 60px;
+
+}
+
 a img.alignright {
     float: right;
     margin: 10px 0 20px 20px;
@@ -779,7 +784,7 @@ xclip
 .isotope-item {
     z-index: 2;
     padding: 0;
-    max-width: 55%;
+    max-width: 45%;
 }
 
 .isotope-hidden.isotope-item {
