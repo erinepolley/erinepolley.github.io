@@ -4,4 +4,4 @@ This site contains my resume, portfolio, and some information about me. I attend
 
 Please click the link below:
 
-[erinepolley.github.io](erinepolley.github.io)
+[erinepolley.github.io](https://erinepolley.github.io/)
